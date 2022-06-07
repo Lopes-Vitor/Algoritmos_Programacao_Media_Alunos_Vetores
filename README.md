@@ -22,3 +22,5 @@
        - Fim SE
      - Fim Enquanto
  - FIM
+
+![isso e uma imagem](https://github.com/Lopes-Vitor/Media_Alunos_Vetores/blob/main/Diagrama%20Media.png)
